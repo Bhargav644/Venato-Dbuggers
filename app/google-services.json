@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114516290342",
+    "project_id": "venatodb",
+    "storage_bucket": "venatodb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114516290342:android:ca610a1bace9edc12aefe7",
+        "android_client_info": {
+          "package_name": "com.example.venato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114516290342-jf0g8744peh50kql13mfk7f72frg3dnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCZAx6aVKGHqdOjDiETs9cEobtzVUf-x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114516290342-jf0g8744peh50kql13mfk7f72frg3dnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
